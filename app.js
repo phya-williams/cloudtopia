@@ -1,5 +1,5 @@
 // Replace this with the actual URL to your Azure Function or blob endpoint
-const ALERT_API_URL = "https://your-function-app.azurewebsites.net/api/alerts";
+const ALERT_API_URL = "https://cloudtopiafunc32462.azurewebsites.net/api/getalerts";
 
 async function fetchAlerts() {
   try {
